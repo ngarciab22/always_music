@@ -1,0 +1,17 @@
+{
+  "name": "always-music",
+  "version": "1.0.0",
+  "description": "",
+  "main": "queries.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node queries/queries.js"
+  },
+  "keywords": [],
+  "author": "Natalia García",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "pg": "^8.11.5"
+  }
+}
